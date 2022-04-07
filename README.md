@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, seja bem-vindx ao meu perfil 👋
+#### Aqui você encontrará informações sobre tecnologia e programação. Veja meus repositórios.
 
 <!--
 **leoisaiass/leoisaiass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
