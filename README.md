@@ -1,4 +1,4 @@
-### Olá, seja bem-vindx ao meu perfil, eu sou o Leonardo Isaias 👋
+### Olá, seja bem-vindx ao meu perfil, eu sou o Leonardo Isaias 👋😄
 
 
 <!-- Algumas tecnologias que são desenvolvidas aqui:
