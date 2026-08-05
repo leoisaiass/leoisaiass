@@ -1,5 +1,4 @@
-### Olá, seja bem-vindx ao meu perfil, eu sou o Leonardo Isaias 👋😄
-#### Tenho 22 anos, estudo Ciências da Computação e trabalho como Analista de Sistemas
+### Olá, seja bem-vindo ao meu perfil! 👋😄
 
 <!-- Algumas tecnologias que são desenvolvidas aqui:
 
